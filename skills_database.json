@@ -1,0 +1,272 @@
+{
+  "skills": [
+    {
+      "name": "writing",
+      "desc": "Writing",
+      "score": 3.493,
+      "source": "writing",
+      "discovered": "2026-03-11"
+    },
+    {
+      "name": "business-writing",
+      "desc": "Business Writing",
+      "score": 3.48,
+      "source": "business",
+      "discovered": "2026-03-11"
+    },
+    {
+      "name": "writing-assistant",
+      "desc": "Writing Assistant",
+      "score": 3.456,
+      "source": "writing",
+      "discovered": "2026-03-11"
+    },
+    {
+      "name": "business-development",
+      "desc": "Business Development",
+      "score": 3.435,
+      "source": "business",
+      "discovered": "2026-03-11"
+    },
+    {
+      "name": "academic-writing",
+      "desc": "academic-writing",
+      "score": 3.425,
+      "source": "writing",
+      "discovered": "2026-03-11"
+    },
+    {
+      "name": "business",
+      "desc": "Business Strategy",
+      "score": 3.386,
+      "source": "business",
+      "discovered": "2026-03-11"
+    },
+    {
+      "name": "media-writing",
+      "desc": "Media Writing",
+      "score": 3.378,
+      "source": "writing",
+      "discovered": "2026-03-11"
+    },
+    {
+      "name": "business-administration",
+      "desc": "Business Administration",
+      "score": 3.323,
+      "source": "business",
+      "discovered": "2026-03-11"
+    },
+    {
+      "name": "general-writing",
+      "desc": "General Writing",
+      "score": 3.319,
+      "source": "writing",
+      "discovered": "2026-03-11"
+    },
+    {
+      "name": "book-writing",
+      "desc": "Book Writing",
+      "score": 3.318,
+      "source": "writing",
+      "discovered": "2026-03-11"
+    },
+    {
+      "name": "human-writing",
+      "desc": "Human Writing",
+      "score": 3.305,
+      "source": "writing",
+      "discovered": "2026-03-11"
+    },
+    {
+      "name": "project-writing",
+      "desc": "Project Writing",
+      "score": 3.305,
+      "source": "writing",
+      "discovered": "2026-03-11"
+    },
+    {
+      "name": "news-writing",
+      "desc": "news-writing",
+      "score": 3.288,
+      "source": "writing",
+      "discovered": "2026-03-11"
+    },
+    {
+      "name": "afrexai-business-continuity",
+      "desc": "Business Continuity Planner",
+      "score": 3.248,
+      "source": "business",
+      "discovered": "2026-03-11"
+    },
+    {
+      "name": "business-ideas",
+      "desc": "Business Ideas",
+      "score": 3.239,
+      "source": "business",
+      "discovered": "2026-03-12"
+    },
+    {
+      "name": "solopreneur",
+      "desc": "Solopreneur",
+      "score": 3.237,
+      "source": "solopreneur",
+      "discovered": "2026-03-11"
+    },
+    {
+      "name": "vivid-business-account-opening",
+      "desc": "Vivid: Open Business Account",
+      "score": 3.217,
+      "source": "business",
+      "discovered": "2026-03-11"
+    },
+    {
+      "name": "solopreneur-assistant",
+      "desc": "Solopreneur Assistant",
+      "score": 3.213,
+      "source": "solopreneur",
+      "discovered": "2026-03-11"
+    },
+    {
+      "name": "business-intelligence",
+      "desc": "Business Intelligence",
+      "score": 3.201,
+      "source": "business",
+      "discovered": "2026-03-11"
+    },
+    {
+      "name": "gov-business-entity",
+      "desc": "Gov Business Entity",
+      "score": 3.199,
+      "source": "business",
+      "discovered": "2026-03-11"
+    },
+    {
+      "name": "polymarket-business-events",
+      "desc": "Polymarket Business Events",
+      "score": 3.145,
+      "source": "business",
+      "discovered": "2026-03-12"
+    },
+    {
+      "name": "google-business-optimizer",
+      "desc": "Google Business Optimizer",
+      "score": 3.124,
+      "source": "business",
+      "discovered": "2026-03-11"
+    },
+    {
+      "name": "local-business-appointment-agent",
+      "desc": "Local Business Appointment Agent",
+      "score": 3.123,
+      "source": "business",
+      "discovered": "2026-03-11"
+    },
+    {
+      "name": "business-growth",
+      "desc": "business-growth",
+      "score": 2.758,
+      "source": "business",
+      "discovered": "2026-03-12"
+    },
+    {
+      "name": "cbo",
+      "desc": "Chief Business Officer",
+      "score": 1.964,
+      "source": "business",
+      "discovered": "2026-03-12"
+    },
+    {
+      "name": "jisu-enterprise",
+      "desc": "企业工商信息查询 - Enterprise Business Information Inquiry",
+      "score": 1.802,
+      "source": "business",
+      "discovered": "2026-03-12"
+    },
+    {
+      "name": "content-strategy",
+      "desc": "Content Strategy",
+      "score": 1.027,
+      "source": "solopreneur",
+      "discovered": "2026-03-11"
+    },
+    {
+      "name": "tax-planning",
+      "desc": "Tax Planning",
+      "score": 0.995,
+      "source": "solopreneur",
+      "discovered": "2026-03-11"
+    },
+    {
+      "name": "business-model-canvas",
+      "desc": "Business Model Canvas",
+      "score": 0.977,
+      "source": "solopreneur",
+      "discovered": "2026-03-11"
+    },
+    {
+      "name": "business-plan",
+      "desc": "Business Plan",
+      "score": 0.965,
+      "source": "solopreneur",
+      "discovered": "2026-03-11"
+    },
+    {
+      "name": "competitive-analysis",
+      "desc": "Competitive Analysis",
+      "score": 0.939,
+      "source": "solopreneur",
+      "discovered": "2026-03-11"
+    },
+    {
+      "name": "financial-planning",
+      "desc": "Financial Planning",
+      "score": 0.936,
+      "source": "solopreneur",
+      "discovered": "2026-03-11"
+    },
+    {
+      "name": "bookkeeping-basics",
+      "desc": "Bookkeeping Basics",
+      "score": 0.93,
+      "source": "solopreneur",
+      "discovered": "2026-03-11"
+    },
+    {
+      "name": "project-management-2",
+      "desc": "Project Management",
+      "score": 0.825,
+      "source": "solopreneur",
+      "discovered": "2026-03-11"
+    }
+  ],
+  "learned": [
+    {
+      "name": "writing",
+      "learned_date": "2026-03-11",
+      "score": 3.493
+    },
+    {
+      "name": "writing",
+      "learned_date": "2026-03-12",
+      "score": 3.495
+    }
+  ],
+  "diary": [
+    {
+      "date": "2026-03-12",
+      "skill": "writing",
+      "explanation": "写作能力，什么类型的文章都能写",
+      "benefit": "写公众号文章、产品介绍、邮件都用的上",
+      "content": "今天学到了writing，通俗点说就是写作能力，什么类型的文章都能写。\n        \n💡 这个技能对我们有什么用呢？\n写公众号文章、产品介绍、邮件都用的上\n\n🔍 具体应用场景：\n- 以后咱们做业务肯定要写各种文档\n- 跟合作伙伴签合同的时候也不怕被套路\n- 平时工作中的邮件、报告也能写得更好\n- 以后开公司了，这些知识都是基本功\n\n✨ 继续加油！",
+      "score": 3.495
+    },
+    {
+      "date": "2026-03-11",
+      "skill": "writing",
+      "explanation": "写作能力，什么类型的文章都能写",
+      "benefit": "写公众号文章、产品介绍、邮件都用的上",
+      "content": "花了点时间研究了writing，就是写作能力，什么类型的文章都能写。\n\n💰 写公众号文章、产品介绍、邮件都用的上\n\n📌 对我们的实际帮助：\n1. 以后做大了开公司，这些知识都用得上\n2. 平时跟客户沟通更专业，客户更信任\n3. 合同文档更规范，不容易吃哑巴亏\n\n有问题随时问我～",
+      "score": 3.493
+    }
+  ]
+}
